@@ -28,6 +28,7 @@ Requirements:
 Download the clipit source code, then:
 	$ tar zxvf clipit-x.y.z.tar.gz
 	$ cd clipit-x.y.z
+	$ sudo apt-get install intltool autopoint autoconf
 	$ ./autogen.sh
 	$ ./configure
 	$ make
